@@ -1,3 +1,17 @@
+# NegativeEncoder_Update
+
+本 fork 的目的在于更新 [NegativeEncoder](https://github.com/zyzsdy/NegativeEncoder) 的部分依赖库，每年更新一次，更新列表如下：
+1. [7z](https://www.7-zip.org/)
+2. [mkvmerge](https://mkvtoolnix.download/downloads.html#windows)
+3. [qaac](https://github.com/nu774/qaac/releases)
+4. [hdr10plus_gen](https://github.com/rigaya/hdr10plus_gen/releases)
+5. [QSVEnc](https://github.com/rigaya/QSVEnc/releases)
+6. [VCEEnc](https://github.com/rigaya/VCEEnc/releases)
+7. [NVEnc](https://github.com/rigaya/NVEnc/releases)
+8. [ffmpeg](https://www.gyan.dev/ffmpeg/builds/#release-builds)
+
+### 以下是原仓库的 README ：
+
 # NegativeEncoder
 
 ### **“消极压制(NegativeEncoder)”是什么？**
